@@ -1,0 +1,100 @@
+{
+    "content": [
+        {
+            "id": 1, 
+            "topic": "Bah ça va, t'es pas trop <BLANK>?"
+        }, 
+        {
+            "id": 2, 
+            "topic": "Euh, OUAIS, je suis <BLANK>."
+        }, 
+        {
+            "id": 3, 
+            "topic": "Quelqu\u2019un a dit <BLANK>?"
+        }, 
+        {
+            "id": 4, 
+            "topic": "On m\u2019appelle <BLANK>!"
+        }, 
+        {
+            "id": 5, 
+            "topic": "Donnez moi <BLANK>!"
+        }, 
+        {
+            "id": 6, 
+            "topic": "<BLANK>, S\u2019il vous plait!"
+        }, 
+        {
+            "id": 7, 
+            "topic": "Ma passion ? <BLANK>!"
+        }, 
+        {
+            "id": 8, 
+            "topic": "Bim-Bam-Boum <BLANK>!"
+        }, 
+        {
+            "id": 9, 
+            "topic": "Est-ce que c\u2019est <BLANK>?"
+        }, 
+        {
+            "id": 10, 
+            "topic": "Qui a commandé <BLANK>?"
+        }, 
+        {
+            "id": 11, 
+            "topic": "Salut, t\u2019es <BLANK>!"
+        }, 
+        {
+            "id": 12, 
+            "topic": "J\u2019suis un peu <BLANK>!"
+        }, 
+        {
+            "id": 13, 
+            "topic": "C\u2019est l\u2019heure <BLANK>!"
+        }, 
+        {
+            "id": 14, 
+            "topic": "Pas de bras, donc tu peux pas avoir <BLANK>!"
+        }, 
+        {
+            "id": 15, 
+            "topic": "Prends <BLANK>!"
+        }, 
+        {
+            "id": 16, 
+            "topic": "Mange-moi <BLANK>!"
+        }, 
+        {
+            "id": 17, 
+            "topic": "Appelle moi <BLANK>!"
+        }, 
+        {
+            "id": 18, 
+            "topic": "C\u2019est <BLANK> épicée!"
+        }, 
+        {
+            "id": 19, 
+            "topic": "Chante moi <BLANK>!"
+        }, 
+        {
+            "id": 20, 
+            "topic": "Assieds toi sur <BLANK>!"
+        }, 
+        {
+            "id": 21, 
+            "topic": "Essaye <BLANK>!"
+        }, 
+        {
+            "id": 22, 
+            "topic": "On est <BLANK>?"
+        }, 
+        {
+            "id": 23, 
+            "topic": "C\u2019est pas <BLANK> à ton daron!"
+        }, 
+        {
+            "id": 24, 
+            "topic": "Z\u2026aimez tous <BLANK>?"
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "content": [
+        {
+            "doodle": "Log1", 
+            "id": 1, 
+            "log" : "Si vous écoutez l\u2019océan, il se moque presque toujours de vous.", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log2", 
+            "id" : 2, 
+            "log" : "Aujourd\u2019hui, j\u2019ai découvert que la mayonnaise est un excellent substitut de crème solaire si vous aimez avoir la peau croustillante !", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log3", 
+            "id" : 3, 
+            "log" : "Personne n\u2019utilise le sauna à 7 heures du matin. C\u2019est un endroit idéal pour pleurer seul !", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log4", 
+            "id" : 4, 
+            "log" : "Une fois, j\u2019ai cru trouver un phare, mais il s\u2019est avéré que c\u2019était le groupe Lifehouse. J\u2019suis resté pendant tout le concert.", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log5", 
+            "id" : 5, 
+            "log" : "Je pense à lancer un podcast sur les baleines appelé Le Pod Pod." 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log6", 
+            "id" : 6, 
+            "log" : "Ma vidéo YouTube \u201cTRICKS DE MALADE AVEC MON BATO\u201d a reçu quatre autres visites aujourd\u2019hui. ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log7", 
+            "id" : 7, 
+            "log" : "rappel : Essayer de ne rien toucher avec le bateau aujourd\u2019hui", 
+            "x" : true
+        }, 
+        {
+            "doodle" : "Log8", 
+            "id" : 8, 
+            "log" : "J\u2019ai accidentellement rejoint une ligne de conga aujourd\u2019hui. Je suppose que parfois le rythme vous rattrape. Procédez avec prudence.", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log9", 
+            "id" : 9, 
+            "log" : "\u201cSi vous allez à la pêche aux compliments, vous pourriez vous NOYER\u201d - mettre ça sur un t-shirt. Combien vais-je m\u2019en faire ? 25k ?", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log10", 
+            "id" : 10, 
+            "log" : "Je suis tombé amoureux d\u2019une mouette persistante, mais j\u2019ai découvert plus tard qu\u2019elle ne voulait que mon déjeuner.", 
+            "x" : false
+        }, 
+        {
+            "doodle": "Log11", 
+            "id": 11, 
+            "log" : "Je mets de l\u2019eau salée dans mes flocons d\u2019avoine. J\u2019appelle cela LE PTIT DEJ A LA MER\u2026 J\u2019ai vomi quatre fois aujourd\u2019hui.", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log12", 
+            "id" : 12, 
+            "log" : "Je ne peux pas croire que j\u2019ai réservé le poste de porte-parole pour le poisson congelé ! J\u2019ai failli avoir de l\u2019argent pour les bâtonnets de poisson ! ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log13", 
+            "id" : 13, 
+            "log" : "Il y a de bons bateaux et il y a des bateaux en bois, mais les meilleurs bateaux sont ceux dont l\u2019adhésion en ligne est gratuite. ", 
+            "x" : true
+        }, 
+        {
+            "doodle" : "Log14", 
+            "id" : 14, 
+            "log" : "Toujours pas de nouvelles de Sandra Bullock". A-t-elle oublié que j\u2019étais consultant sur Speed 2 : Cruise Control ??", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log15", 
+            "id" : 15, 
+            "log" : "Combien de bouteilles en plastique y a-t-il au fond de l\u2019océan ? J\u2019y pense chaque fois que j\u2019en jette une par-dessus bord.", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log16", 
+            "id" : 16, 
+            "log" : "Je detrues renommer le fleuve paresseux quelque chose de plus positif. Rivière paresseuse ? Rivière qui a juste besoin de motivation ?", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log17", 
+            "id" : 17, 
+            "log" : "Déversement accidentel de café sur le manuel d\u2019utilisation du navire". C\u2019est du présage ! ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log18", 
+            "id" : 18, 
+            "log" : "J\u2019ai bien progressé sur mon livre d\u2019auto-assistance \u201cComment passer d\u2019une Cap 1 à une Cap 10\u201d ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log19", 
+            "id" : 19, 
+            "log" : "Encore une dure journée. Un autre enfant a volé mon pistolet lance-fusées et m\u2019a tiré dans le cul. ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log20", 
+            "id" : 20, 
+            "log" : "J\u2019ai bien progressé sur ma parodie de L\u2019homme qui Prend la mer \u201cC\u2019est l\u2019histoire d\u2019un obsédé à la mer\u2026\u201d", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log21", 
+            "id" : 21, 
+            "log" : "Avoir du sable dans son caleçon, c\u2019est horrible. Pire encore ? Que cela arrive parce que vous vous êtes assis sur un sablier. OWIE !!!", 
+            "x" : true
+        }, 
+        {
+            "doodle" : "Log22", 
+            "id" : 22, 
+            "log" : "idée de t-shirt: \u201cMa mère c\u2019est la mer\u201d Hmmm mieux vaut mettre cette maquette dans un coffre-fort. ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log23", 
+            "id" : 23, 
+            "log" : "Je me demande si quelqu\u2019un a remarqué qu\u2019aucune des toilettes ne fonctionne\u2026 ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log24", 
+            "id" : 24, 
+            "log" : "J\u2019ai encore des étoiles de mer plein le slip ? Sérieusement, comment on les enlève ?", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log25", 
+            "id" : 25, 
+            "log" : "N\u2019acceptez jamais un gage qui dit d\u2019essayer de sauter le filet de volley-ball. Le gamin m\u2019a juste laissé en plan pendant 3 heures", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log26", 
+            "id": 26, 
+            "log": "J\u2019ai trouvé un message dans une bouteille mais il s\u2019est avéré que c\u2019était du spam.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log27", 
+            "id": 27, 
+            "log": "Idée de tatouage: \u201cDeez Knots.\u201d", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log28", 
+            "id": 28, 
+            "log": "Idée de tatouage: JE SUIS UN MER-DEUX. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log29", 
+            "id": 29, 
+           "log" : "idée de livre : Les premiers compagnons : Faire des rencards en pleine mer", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log30", 
+            "id" : 30, 
+            "log" : "Y\u2019a plein de choses qui me manquent à la mer. Par exemple, je me demande ce que fait le jeune Sheldon\u2026", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log31", 
+            "id" : 31, 
+            "log" : "Je suis presque sûr que je viens de voir un dauphin espion", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log32", 
+            "id" : 32, 
+            "log" : "constat : les draps-housses sont difficiles à mettre sur un lit. Il y a peut-être une blague drôle à faire ici\u2026", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log33", 
+            "id" : 33, 
+            "log" : "Encore une matinée réussie où personne n\u2019a remarqué que mon insigne n\u2019est qu\u2019un bonbon.  ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log34", 
+            "id" : 34, 
+            "log" : "Une autre famille du Midwest s\u2019est retrouvée coincée dans le toboggan. Elle a dû utiliser à nouveau la grue. ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log35", 
+            "id" : 35, 
+            "log" : "J\u2019ai bien progressé sur mon livre d\u2019auto-assistance \u201cLe Guide du Captiaine pour penser d\u2019abord à soi\u201d", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log36", 
+            "id" : 36, 
+            "log" : "Le spa m\u2019a donné tous leurs concombres usagés. Je vais manger comme un roi ce soir ! ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log37", 
+            "id" : 37, 
+            "log" : "Mets du bacon sur ma salade aujourd\u2019hui parce que je suis un mauvais garçon.",
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log38", 
+            "id" : 38, 
+            "log" : "Quelqu\u2019un m\u2019a demandé si je vivais au gymnase. J\u2019ai pensé que c\u2019était un compliment jusqu\u2019à ce qu\u2019on me prenne pour un sans-abri. ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log39", 
+            "id" : 39, 
+            "log" : "Je viens de réaliser que je portais deux chaussures différentes.  Pire encore : je les portais sur les mains", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log40", 
+            "id" : 40, 
+            "log" : "Tom Hanks a répondu. Apparemment, le capitaine Phillips n\u2019était PAS basé sur moi. :(", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log41", 
+            "id" : 41, 
+            "log" : "Je me suis lancé dans un débat avec des sourds. Je vais être super gêné si on tombe du bord de la terre. ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log42", 
+            "id" : 42, 
+            "log" : "J\u2019ai accidentellement fait pleurer une jeune fille après lui avoir dit que les sirènes étaient probablement empoisonnées au mercure. ", 
+            "x" : true
+        }, 
+        {
+            "doodle" : "Log43", 
+            "id" : 43, 
+            "log" : "80 % des passagers sont en scooter. C\u2019est ce qu\u2019a trouvé mon équipe. ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log44", 
+            "id" : 44, 
+            "log" : "Trois semaines plus tard, ce navire sent encore le clébard mouillé. Woof.", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log45", 
+            "id" : 45, 
+            "log" : "Call Me Maybe > Call me Ishmael", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log46", 
+            "id" : 46, 
+            "log" : "J\u2019ai mis un coquillage à mon oreille mais tout ce que j\u2019ai entendu était un cri de guerre. ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log47", 
+            "id" : 47, 
+            "log" : "J\u2019ai fait la fameuse recette de ragoût de jacuzzi de ma mère pour 2019. ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log48", 
+            "id" : 48, 
+            "log" : "A déposé un autre téléphone dans l\u2019évent d\u2019une baleine aujourd\u2019hui.",
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log49", 
+            "id" : 49, 
+            "log" : "Dure journée. J\u2019ai fait une sieste au bord de la piscine et on m\u2019a pris pour un jouet gonflable. ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log50", 
+            "id" : 50, 
+            "log" : "Seulement un tiers du chemin en lisant le manuel d\u2019utilisation du navire. C\u2019est si ennuyeux. Quelle sieste ! ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log51", 
+            "id" : 51, 
+            "log" : "Je n\u2019ai peut-être pas de 401k mais j\u2019ai cette idée de t-shirt : devant, c\u2019est DEVANTPHIN et derrière, c\u2019est DOSPHIN. ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log52", 
+            "id" : 52, 
+            "log" : "Ma chambre commence à ressembler à une cellule de prison. Je pense que c\u2019est à cause de sa petite taille et de toutes ces barres de métal... ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log53", 
+            "id": 53, 
+            "log" : "J\u2019ai testé une nouvelle blague hier soir. \u201cPourquoi Dieu déteste-t-il les dauphins ? Parce qu\u2019ils n\u2019ont pas de NARINES ces cons ! \u201d Ça s\u2019est bien passé. ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log54", 
+            "id" : 54, 
+            "log" : "Le ménage est en train de le perdre. Ils continuent à plier ma serviette en serpent. ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log55", 
+            "id" : 55, 
+            "log" : "J\u2019ai recréé le moment du roi du monde avec le concierge. Il a des mains très douces", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log56", 
+            "id" : 56, 
+            "log" : "blague à tester : Pourquoi les appelle-t-on des bernacles et non des canots ? ! [pause de cinq minutes pour rire]", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log57", 
+            "id" : 57, 
+            "log" : "25 ans sur un bateau et personne ne m\u2019a jamais dessiné nu. Il est temps de prendre les choses en main. ", 
+            "x" : true
+        }, 
+        {
+            "doodle" : "Log58", 
+            "id" : 58, 
+            "log" : "Jour du Port demain ! Je compte me faire percer les oreilles au Claire\u2019s !! ", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log59", 
+            "id" : 59, 
+            "log" : "Penser à se faire une frange\u2026", 
+            "x" : false
+        }, 
+        {
+            "doodle" : "Log60", 
+            "id" : 60, 
+            "log" : "J\u2019ai juste découvert ce qu\u2019est le planking. Maintenant, les gens me marchent littéralement dessus !", 
+            "x" : false
+        }
+    ]
+}
