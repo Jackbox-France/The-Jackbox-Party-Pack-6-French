@@ -10,7 +10,7 @@ Ce repository contient les traductions de la communauté française pour le jeu 
 | Role Models | ❌ | ❌ | ❌ | ❌ | ❌ |  |
 | JokeBoat  | ✅ | ❌ | ❌ | ❌ | ❌ | CubicOtter |
 | Dictionarium | ✅ | ❌ | ❌ | ❌ | ❌ | CubicOtter |
-| Push The Button | ✅ | ✅ | ✅ | ❌ | ❌ | Alexis, fizzrocks et Antnv335 |
+| Push The Button | ✅ | ✅ | ✅ | ✅ | ❌ | Alexis, fizzrocks et Antnv335 |
 
 ✅ Terminé</br>
 ⚪ Commencé mais non terminé</br>
